@@ -2,7 +2,7 @@
 
 John Broder, Gabriel Bischof, Ensar Yildirim, Blentin
 
-Gruppenname: 34
+Gruppenname: 3410
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -14,7 +14,7 @@ Gruppenname: 34
 
 ### 1.1 Ihr Projekt
 
-Unser Projekt ist eine C#-Anwendung, welches Börsenkurse anzeigt und zu einer Portfoliomanagement-Software erweitert werden kann.
+Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren werden.
 
 ### 1.2 User Stories
 
