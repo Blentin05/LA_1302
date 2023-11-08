@@ -4,6 +4,7 @@ Blentin, Gian-Marco
 
 ## 1 Informieren
 
+In unserem Projekt werden wir ein Fussballquiz programmieren 
 
 
 ### 1.1 User Stories
