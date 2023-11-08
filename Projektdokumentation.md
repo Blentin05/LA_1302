@@ -14,18 +14,18 @@ Gruppenname: 3410
 
 ### 1.1 Ihr Projekt
 
-Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren werden.
+Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmieren werden.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Funktional     | Muss | Als ein User möchte ich den Wert meiner Aktie wissen, damit ich weiss, ob ich einen möglichen Gewinn erzielt habe.|
-| 2    |  Funktional     | Muss | Als ein User möchte ich den Verlauf des Wertes grafisch angezeigt bekommen, damit ich sie mit anderen Aktien vergleichen kann. |   
-| 3    |  Funktional     | Muss | Als ein User möchte ich immer den neusten Stand der Aktie haben, damit ich immer auf dem neusten Stand der Dinge bin.|
-| 4    |  Qualität       | Kann | Als Benutzer möchte ich ein Portfolio meiner Aktien erstellen und verwalten, damit ich alle meine Investitionen an einem Ort sehen kann.  |
-| 5    |  Rand           | Kann | Als Benutzer möchte ich Benachrichtigungen erhalten, wenn eine meiner Aktien einen bestimmten Wert erreicht, damit ich schnell Kauf- oder Verkaufsentscheidungen treffen kann.|
-| 6    |  Rand           | Kann | Als Benutzer möchte ich aktuelle Nachrichten über meine Aktien sehen, damit ich auf dem Laufenden bleibe und schnell Entscheidungen treffen kann.|
+| 1    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
+| 2    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit multiple choice beantworten, damit ich keine Rechtschreibfehler machen kann.|   
+| 3    |  Funktional     | Muss |Als ein User möchte ich  |
+| 4    |  Qualität       | Kann |  |
+| 5    |  Rand           | Kann | |
+| 6    |  Rand           | Kann | |
 
 
 ### 1.3 Testfälle
