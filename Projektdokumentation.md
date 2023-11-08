@@ -6,9 +6,8 @@ Gruppenname: 3410
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|20.09.2023| 0.0.1   | Heute haben wir uns ein Projekt ausgesucht und uns darüber informiert, ausserdem haben wir die Projektdokumentation bis zum Planen fertiggestellt.|
-|18.10.2023| 0.0.2|  Heute haben wir die API implementiert, allerdings mussten wir eine neue API auswählen da, die alte nicht gut war.|
-|25.10.2023|0.0.3|Heute haben wir mit dem GUI angefangen|
+|| 0.0.1   ||
+
 
 ## 1 Informieren
 
@@ -22,39 +21,25 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
 | 2    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit multiple choice beantworten, damit ich keine Rechtschreibfehler machen kann.|   
-| 3    |  Funktional     | Muss |Als ein User möchte ich  |
-| 4    |  Qualität       | Kann |  |
-| 5    |  Rand           | Kann | |
-| 6    |  Rand           | Kann | |
+| 3    |  Funktional     | Muss |Als ein User möchte ich meine Punktzahl am Ende aller Fragen sehen damit ich weiss wie gut mein Wissen über Fussball ist.  | 
+| 4 |
+
 
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm ist geöffnet |  ---------------               | Wert der Aktie wird angezeigt               |
-| 2.1  | Aktie wurde angewählt    | Grafisch anzeigen              | Der Wert wird Grafisch angezeigt            |
-| 3.1  |Programm wird neu gestartet |------------------              | Aktienkurse werden neu geladen              |
-| 4.1  |Programm ist geöffnet      | Ordner erstellen wird geklickt | Ordner wird erstellt                        |
-| 4.2  |Ordner ist geöffnet       | Aktien werden ausgewählt       | Ordner mit den gewählten Aktien ist erstellt|
-| 5.1  |Programm ist geschlossen   | -----------------------------  | Nachricht wird gesendet                     |
-| 6.1  |Programm ist geöffnet     | Nachrichten sehen, anklicken    | Aktuelle Nachrichten werden ausgegeben      |
+| 1.1  |  | | |
+| 2.1  |     |              |            |
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A      | 20.09 | John Broder                       | Domkumentation starten                  | 30min   |
-| 2.A      | 20.09 | Ensar,Yildirim  Gabriel Bischof   | API finden                              | 30 min  |
-| 2.B/ 4.A | 18.10 | Alle                              | API implementieren                      | 150 min |
-| 1.B      | 18.10 | Gabriel Bischof                   | Dokumentation fortfahren                | 30min   |
-| 3.A      | 25.10 | John Broder, Ensar Yildirim       | Grafik erstellen und Anzeigen lassen    | 120 min |
-| 5.A      | 25.10 | Gabriel Bischof                   | Portfolio der Aktien erstellen          | 90 min  |
-| 1.C      | 25.10 | Ensar, Yildirim                   | Dokumentation fortfahren                | 30min   |
-| 6.A      | 01.11 | John Broder, Gabriel Bischof      | Informationen zur Aktie erstellen.      | 50 min |
-| 7.A      | 01.11 | Ensar Yildirim                    | Nachrichten zur Aktie anzeigen lassen.  | 60 min  |
-| 8.A      | 01.11 | Alle                              | Portfolioeintrag                        | 90 min  |
-| 1.D      | 01.11 | Gabriel Bischof                   | Dokumentation beenden                   | 30min   |
+| 2.A      | 20.09 | Ensar,Yildirim  Gabriel Bischof   |  | 30 min  |
+
 
 |
 Total: 590 min
