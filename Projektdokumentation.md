@@ -22,7 +22,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 1    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
 | 2    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit multiple choice beantworten, damit ich keine Rechtschreibfehler machen kann.|   
 | 3    |  Funktional     | Muss |Als ein User möchte ich meine Punktzahl am Ende aller Fragen sehen damit ich weiss wie gut mein Wissen über Fussball ist.  | 
-| 4 |
+| 4 | Funktional | kann | Als ein User Bild
 
 
 
