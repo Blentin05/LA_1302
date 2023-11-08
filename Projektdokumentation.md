@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-John Broder, Gabriel Bischof, Ensar Yildirim
+John Broder, Gabriel Bischof, Ensar Yildirim, Blentin
 
 Gruppenname: 34
 
