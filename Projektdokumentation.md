@@ -24,9 +24,9 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 |3| Funktional| Muss| Als User möchte, dass beim klicken der Falschen Antwort, die Antwort rot markiert wird.|
 |4| Funktional| Qualität| ALs User möchte ich das beim hover über eine Antwort dass die ANtwort einen schwarzen Hintergrund bekommt.|
 |5|funktional| muss | ALs User möchte ich das ich nach eingabe 
-| 3    |  Funktional     | Muss |Als User möchte ich meine Punktzahl am Ende aller Fragen sehen, damit ich weiss wie gut mein Wissen über Fussball ist.  | 
-| 4 | Funktional | kann | Als User Bild
-| 1    |  Funktional     | Muss | Als User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
+| 6|  Funktional     | Muss |Als User möchte ich meine Punktzahl am Ende aller Fragen sehen, damit ich weiss wie gut mein Wissen über Fussball ist.  | 
+| 7 | Funktional | kann | Als User Bild
+| 8   |  Funktional     | Muss | Als User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
 
 
 ### 1.3 Testfälle
