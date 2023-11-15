@@ -40,8 +40,8 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 4.1  |Frage   | Über Antwort gehen|schwarzer Hintergrund    |
 | 5.1  |Frage fertig  | Auf Next klicken|Nächste Frage |
 | 6.1  |Fragen fertig  |- |Punktzahl |
-| 7.1  |  | | |
-| 8.1  |  | | |
+| 7.1  |Alle Fragen wurden beantwortet  |play again klicken |erste Frage erscheint|
+| 8.1  |Frage wird angezeigt|- |Bild wird angezeigt |
 
 
 ## 2 Planen
