@@ -25,7 +25,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 |4| Funktional| Qualität| Als User möchte ich das beim hovern über eine Antwort die Antwort einen schwarzen Hintergrund bekommt.|
 |5|funktional| muss | als User möchte ich das ich nach Auswahl der multiple chice fragen next anklicken kann und so auf die nächste Frage kommen|
 | 6| Funktional | Muss |Als User möchte ich meine Punktzahl am Ende aller Fragen sehen, damit ich weiss wie gut mein Wissen über Fussball ist.|
-|7| FUnktional| Als User möcht ich das ich das Quiz noch einmal spielen kann|
+|7| FUnktional| Als User möcht ich das ich das Quiz noch einmal spielen kann wenn ich auf play again|
 | 7 | Funktional | kann | Als User Bild
 | 8   |  Funktional     | Muss | Als User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
 
