@@ -68,13 +68,14 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 7.A  | 29.11.23 |  Blentin Tosuni, John Broder      |Spiel neu starten                     | 90 min  |
 | 8.A  | 06.12.23 |  Ensar Yildirim, John Broder      |Bild                                  | 180 min |
 | 9.A  | 06.12.23 |  Blentin Tosuni, Gabriel Bischof  |Eingabe einer Antwort                 | 180 min |
-| 9.B  | 12.12.23 |  Alle                             | EIngabe einer Antwort                | 90 min  |
-| 1.D  |
+| 9.B  | 13.12.23 |  Alle                             | EIngabe einer Antwort                | 90 min  |
+| 10.A | 13.12.23 |  Alle                             | Sound Ausgabe bei richtiger Antwort  | 120 min |
+| 1.D  | 13.12.23 |  Alle                             | Dokumetation beenden                 | 30 min  |
 
 
 ## 3 Entscheiden
 
-Wir hatten schon eine API haben dann aber in der Session erfahren, dass es bessere APIs gibt und so eine neue gesucht.
+
 
 ## 4 Realisieren
 
