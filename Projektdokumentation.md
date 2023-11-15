@@ -19,11 +19,12 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
+
 | 2    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit multiple choice beantworten, damit ich eine Auswahl an Antwormöglichkeiten habe.|   
+|2| Funktional| muss| Als User möchte ich, dass die richtige Antwort grün angestrichen wird.|
 | 3    |  Funktional     | Muss |Als ein User möchte ich meine Punktzahl am Ende aller Fragen sehen, damit ich weiss wie gut mein Wissen über Fussball ist.  | 
 | 4 | Funktional | kann | Als ein User Bild
-
+| 1    |  Funktional     | Muss | Als ein User möchte ich Fussballfragen mit einer Eingabe beantworten können, damit einfache Fragen bisschen schwerer sind. |
 
 
 ### 1.3 Testfälle
