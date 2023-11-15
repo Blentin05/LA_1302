@@ -48,6 +48,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
+| ---- | ------| --------- | -------------| -------------|
 | 1.A  | 08.11.23 | Alle| Informieren  | 90min   |
 | 2.A  | 08.11.23 | Alle| Dokumentation starten  | 30min   |
 | 3.A  | 15.11.23 | John Broder, Blentin Tosuni   | Dokumentation  | 45min   |
