@@ -55,7 +55,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 2.A  | 15.11.23 | Ensar Yildirim, Gabriel Bischof   |Multiple choice                       | 180 min |
 | 2.B  | 15.11.23 | John Broder, Blentin Tosuni       |Multiple choice                       | 90min   |
 | 2.C  | 22.11.23 | Ensar Yildirim, Gabriel Bischof   |Multiple choice                       | 90 min  |
-| 2.D  | 15.11.23 |  John Broder, Blentin Tosuni      |Antwort soll grün angestrichen werden.| 90 min  |
+| 2.D  | 22.11.23 |  John Broder, Blentin Tosuni      |Antwort soll grün angestrichen werden.| 90 min  |
 | 3.A  | 22.11.23 |  John Broder, Blentin Tosuni      |Antwort soll rot angestrichen werden. | 90 min  |
 | 4.A  | 29.11.23 |  John Broder, Blentin Tosuni      |Hover                                 | 45 min  |
 | 5.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Next anklicken                        | 45 min  |
