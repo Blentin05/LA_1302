@@ -19,10 +19,8 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1 | Funktional | Muss | Als User möchte ich Fussballfragen mit multiple choice beantworten, damit ich eine Auswahl an Antwortmöglichkeiten habe.|
-
-|2| Funktional| muss| 
-Als User möchte ich, dass die richtige Antwort grün markiert wird, damit ich sofort sehen kann, welche Antwort korrekt ist und mein Verständnis der Fragen und Antworten verbessern kann. Dies erleichtert das Lernen und die Selbstüberprüfung.|
+|1| Funktional | Muss | Als User möchte ich Fussballfragen mit multiple choice beantworten, damit ich eine Auswahl an Antwortmöglichkeiten habe.|
+|2| Funktional| Muss | Als User möchte ich, dass die richtige Antwort grün markiert wird, damit ich sofort sehen kann, welche Antwort korrekt ist und mein Verständnis der Fragen und Antworten verbessern kann. Dies erleichtert das Lernen und die Selbstüberprüfung.|
 |3| Funktional| Muss| Als User möchte ich, dass beim Klicken der falschen Antwort die Antwort rot markiert wird, damit ich leicht erkennen kann, welche Antwort ich ausgewählt habe und welche korrekt ist. Dies hilft mir, meine Antworten zu überprüfen und zu lernen.|
 |4| Funktional| Qualität| Als User möchte ich, dass beim hovern über eine Antwort die Antwort einen schwarzen Hintergrund bekommt, damit ich  die ausgewählte Antwort besser erkennen und hervorheben kann.|
 |5|funktional| muss | Als User möchte ich, dass ich nach Auswahl der Multiple-Choice-Fragen "Next" anklicken kann, um so zur nächsten Frage zu gelangen, damit ich das Quiz effizient durchgehen kann.|
