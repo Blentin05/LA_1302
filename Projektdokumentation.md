@@ -28,6 +28,10 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 |7| Funktional|muss|Als User möchte ich die Möglichkeit haben, das Quiz noch einmal zu spielen, indem ich auf "Play Again" klicke, damit ich mein Wissen weiter verbessern und mich erneut herausfordern kann.|
 | 8 | Funktional | kann | Als User möchte ich ein Bild bei einigen Fragen sehen, damit ich visuelle Informationen zur Verfügung habe, um die Frage besser zu verstehen oder genauer beantworten zu können.| 
 | 9   |  Funktional     | Muss |Als User möchte ich einige Fußballfragen mit einer Eingabe beantworten können, damit ich meine Kenntnisse und mein Wissen über Fußball auf die Probe stellen kann.|
+| 10 | Funktional| kann|Als User möchte ich, dass ein Sound abgespielt wird, wenn ich die richtige Antwort anklicke oder eingebe, damit die Interaktion unterhaltsamer und aufregender wird und ich sofortiges Feedback zur Richtigkeit meiner Antwort erhalte.|
+
+
+
 
 
 ### 1.3 Testfälle
@@ -49,7 +53,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ------| --------- | -------------| -------------|
-| 1.A  | 08.11.23 | Alle                              | Informieren                          | 150min   |
+| 1.A  | 08.11.23 | Alle                              | Informieren                          | 150min  |
 | 1.B  | 08.11.23 | Alle                              | Dokumentation starten                | 30min   |
 | 1.C  | 15.11.23 | John Broder, Blentin Tosuni       | Dokumentation                        | 90min   |
 | 2.A  | 15.11.23 | Ensar Yildirim, Gabriel Bischof   |Multiple choice                       | 180 min |
@@ -57,12 +61,13 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 2.C  | 22.11.23 | Ensar Yildirim, Gabriel Bischof   |Multiple choice                       | 90 min  |
 | 2.D  | 22.11.23 |  John Broder, Blentin Tosuni      |Antwort soll grün angestrichen werden.| 90 min  |
 | 3.A  | 22.11.23 |  John Broder, Blentin Tosuni      |Antwort soll rot angestrichen werden. | 90 min  |
-| 4.A  | 29.11.23 |  John Broder, Blentin Tosuni      |Hover                                 | 45 min  |
-| 5.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Next anklicken                        | 45 min  |
-| 6.A  | 
-| 7.A  | 29.11.23 |  Blentin Tosuni, John Broder      |Spiel neu starten                     | 45 min  |
-| 8.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Bild                                  | 90 min  |
-| 9.A  |
+| 4.A  | 29.11.23 |  John Broder, Blentin Tosuni      |Hover                                 | 90 min  |
+| 5.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Next anklicken                        | 90 min  |
+| 6.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Punktzahl anzeigen lassen             | 90min   |
+| 7.A  | 29.11.23 |  Blentin Tosuni, John Broder      |Spiel neu starten                     | 90 min  |
+| 8.A  | 06.12.23 |  Ensar Yildirim, John Broder      |Bild                                  | 180 min |
+| 9.A  | 06.12.23 |  Blentin Tosuni, Gabriel Bischof  |Eingabe einer Antwort                 | 180 min |
+| 9.B  | 12.12.23 |  Alle                             | EIngabe einer Antwort                | 90 min  |
 | 1.D  |
 
 
