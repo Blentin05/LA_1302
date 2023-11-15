@@ -61,7 +61,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 5.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Next anklicken                        | 45 min  |
 | 6.A  | 
 | 7.A  | 29.11.23 |  Blentin Tosuni, John Broder      |Spiel neu starten                     | 45 min  |
-| 8.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Bild                                  | 45 min  |
+| 8.A  | 29.11.23 |  Ensar Yildirim, Gabriel Bischof  |Bild                                  | 90 min  |
 | 9.A  |
 | 1.D  |
 
