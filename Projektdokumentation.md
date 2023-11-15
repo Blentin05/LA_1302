@@ -34,8 +34,15 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |  | | |
-| 2.1  |     |              |            |
+| 1.1  | Frage             | Antwort auswählen      |Richtig oder Falsch |
+| 2.1  |Frage     | Richtige Antwort             |Grün            |
+| 3.1  |Frage     | Falsche Antwort             |Rot          |
+| 4.1  |Frage   | Über Antwort gehen|schwarzer Hintergrund    |
+| 5.1  |Frage fertig  | Auf Next klicken|Nächste Frage |
+| 6.1  |Fragen fertig  |- |Punktzahl |
+| 7.1  |  | | |
+| 8.1  |  | | |
+
 
 ## 2 Planen
 
