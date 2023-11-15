@@ -46,7 +46,7 @@ Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmie
 | 6.1  |Fragen fertig  |- |Punktzahl |
 | 7.1  |Alle Fragen wurden beantwortet  |play again klicken |erste Frage erscheint|
 | 8.1  |Frage wird angezeigt|- |Bild wird angezeigt |
-| 9.1  |Frage wird angezeigt|Antwort eingeben |Bild wird angezeigt |
+| 9.1  |Frage wird angezeigt|Antwort eingeben |Richtig oder Falsch |
 | 10.1  |Frage wird angezeigt|richtige Antwort |Sound wird abgespielt |
 
 ## 2 Planen
