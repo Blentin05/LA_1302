@@ -13,7 +13,7 @@ Gruppenname: 3410
 
 ### 1.1 Ihr Projekt
 
-Unser Projekt ist eine Web-Anw   endung, in der wir ein Fussball Quiz programmieren werden.
+Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren werden.
 
 ### 1.2 User Stories
 
