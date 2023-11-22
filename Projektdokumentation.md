@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-John Broder, Gabriel Bischof, Ensar Yildirim, Blentin
+John Broder, Gabriel Bischof, Ensar Yildirim, Blentin Tosuni
 
 Gruppenname: 3410
 
