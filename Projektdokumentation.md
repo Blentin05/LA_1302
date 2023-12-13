@@ -96,12 +96,16 @@ Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
+|1.1|1.11.2023|O.K|John Broder|
 |2.1|1.11.2023|O.K|John Broder|
-|3.1|1.11.2023|nicht O.K|John Broder|
+|3.1|1.11.2023|O.K|John Broder|
 |4.1|1.11.2023|O.K|John Broder|
-|5.1|1.11.2023|nicht O.K|John Broder|
-|6.1|1.11.2023|nicht O.K|John Broder|
-|7.1|1.11.2023|nicht O.K|John Broder|
+|5.1|1.11.2023|O.K|John Broder|
+|6.1|1.11.2023|O.K|John Broder|
+|7.1|1.11.2023|O.K|John Broder|
+|8.1|1.11.2023|O.K|John Broder|
+|9.1|1.11.2023|O.K|John Broder|
+|10.1|1.11.2023|nicht O.K|John Broder|
 
-Wir konnten nicht alle unsere Ideen in der Zeit, die 
-wir gehabt haben umsetzen, daher sind viel Testfälle nicht O.K.
+
+
