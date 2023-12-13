@@ -79,15 +79,16 @@ Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren
 
 ## 4 Realisieren
 
+
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 2.A  |15.9.2023|Alle|30min|60min|
-| 2.B  |18.10.2023|alle|150min|180min|
-|3.A  |18.10.2023|John Broder, Ensar Yildirim|120 min|-|
-|4.A|25.09.2023|John Broder, Ensar Yildirim|150min|180min|
-|5.A|25.09.2023|John Broder, Ensar Yildirim|90min|-|
-|6.A|25.09.2023|John Broder, Ensar Yildirim|120min|-|
-|7.A|25.09.2023|John Broder, Ensar Yildirim|60min|-|
+| 2.A  |22.11.2023|Alle|30min|60min|
+| 2.B  |22.11.2023|alle|150min|180min|
+|3.A  |29.11.2023|John Broder, Ensar Yildirim|120 min|-|
+|4.A|29.11.2023|John Broder, Gabriel Bischof|150min|180 min|
+|5.A|06.12.2023|Blentin Tosuni, Ensar Yildirim|90min|80 min|
+|6.A|06.12.2023|Blentin Tosuni, Gabriel Bischof|120min|100 min|
+|7.A|13.12.2023|Alle|60min|70 min|
 
 
 ## 5 Kontrollieren
