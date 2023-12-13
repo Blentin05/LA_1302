@@ -6,7 +6,13 @@ Gruppenname: 3410
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|| 0.0.1   ||
+| Datum | Version | Zusammenfassung |
+| 08.11.2023| v0.1.0 | An diesem Tag haben wir mit der Dokumentation angefangen und uns eine Idee zu unserer Website gebildet. | 
+|15.11.2023 | v0.2.0 | Wir haben mit einem Protoypen angefangen und das Design festgelegt.|
+ |22.11.2023 | v0.3.0 | Wir haben mit dem Javascript Code der Seite begonnen.| 
+|29.11.2023 | v0.4.0 | Wir haben Multiple Choice auf der Seite eingerichtet und mit der Eingabe Funktionen begonnen.|
+ |6.12.2023 | v1.0.0 | An diesem Tag haben wir die Funktionalen Anforderungen fertiggestellt.|
+ |13.12.2023 | v1.1.0 | An diesem Tag haben wir die Dokumentation und das Programm fertiggestellt und verbessert.|
 
 
 ## 1 Informieren
@@ -82,15 +88,23 @@ Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 2.A  |22.11.2023|Alle|30min|60min|
-| 2.B  |22.11.2023|alle|150min|180min|
-|3.A  |29.11.2023|John Broder, Ensar Yildirim|120 min|120 min|
-|4.A|29.11.2023|John Broder, Gabriel Bischof|150min|180 min|
-|5.A|06.12.2023|Blentin Tosuni, Ensar Yildirim|90min|80 min|
-|6.A|06.12.2023|Blentin Tosuni, Gabriel Bischof|120min|100 min|
-|7.A|13.12.2023|Alle|60min|70 min|
-
-
+| 1.A  |22.11.2023|Alle|150 min|140 min|
+| 1.B  |22.11.2023|alle|30 min|50 min|
+|1.C  |22.11.2023|John Broder, Ensar Yildirim|90 min|80 min|
+|2.A|22.11.2023|John Broder, Gabriel Bischof|180min|200 min|
+|2.B|29.11.2023|Blentin Tosuni, Ensar Yildirim|90min|80 min|
+|2.C|29.11.2023|Blentin Tosuni, Gabriel Bischof|90 min|100 min|
+|2.D|29.11.2023|Alle|90 min|75 min|
+| 3.A  |29.11.2023|Alle|90 min|110 min|
+| 4.A  |29.11.2023|alle|90 min|100 min|
+|5.A  |06.12.2023|John Broder, Ensar Yildirim|90 min|110 min|
+|6.A|06.12.2023|John Broder, Gabriel Bischof|90 min|75 min|
+|7.A|06.12.2023|Blentin Tosuni, Ensar Yildirim|90min|80 min|
+|8.A|06.12.2023|Blentin Tosuni, Gabriel Bischof|180 min|160 min|
+|9.A|13.12.2023|Alle|180 min|180 min|
+|9.B|13.12.2023|Blentin Tosuni, Ensar Yildirim|90min|75 min|
+|10.A|13.12.2023|Blentin Tosuni, Gabriel Bischof|120min|100 min|
+|1.D|13.12.2023|Alle|30 min|45 min|  
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
