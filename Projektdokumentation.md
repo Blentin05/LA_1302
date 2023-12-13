@@ -84,7 +84,7 @@ Unser Projekt ist eine Web-Anwendung, in der wir ein Fussball Quiz programmieren
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 2.A  |22.11.2023|Alle|30min|60min|
 | 2.B  |22.11.2023|alle|150min|180min|
-|3.A  |29.11.2023|John Broder, Ensar Yildirim|120 min|-|
+|3.A  |29.11.2023|John Broder, Ensar Yildirim|120 min|120 min|
 |4.A|29.11.2023|John Broder, Gabriel Bischof|150min|180 min|
 |5.A|06.12.2023|Blentin Tosuni, Ensar Yildirim|90min|80 min|
 |6.A|06.12.2023|Blentin Tosuni, Gabriel Bischof|120min|100 min|
